@@ -1,3 +1,6 @@
+# Code part A, #1 here:
+print(6 * (1 - 2))
+
 # Code part A, #2 here:
     
 print((2 + 8 + 10) / 5)
